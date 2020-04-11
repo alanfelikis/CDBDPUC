@@ -2,7 +2,7 @@
 
 Repositório destinado a armazenar todo o conteúdo do TCC do aluno Alan Felix referente curso da PUC-MG de Pós-graduação em Ciência de Dados e Big Data
 
-Estrutura de pastas:
+# Estrutura de pastas:
 
 /data
 Pasta destinada a armazenar os arquivos de dados que foram utilizados no TCC.
